@@ -794,7 +794,7 @@ MonoBehaviour:
   SpawnTime: 2
   SpawnedObject: {fileID: 1658005879004007829, guid: 58900fb4884d022449de569809ac06ab, type: 3}
   RareCoinPrefab: {fileID: 1658005879004007829, guid: 9d4f6519bb38e5047ad468571bc15997, type: 3}
-  rareChance: 0.5
+  rareChance: 0.4
   Range: {x: 2, y: 8}
   MaxCoins: 1
   MinX: -8
@@ -844,7 +844,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HazardMoveScript
   player: {fileID: 1491646076}
-  speed: 1
+  speed: 2
 --- !u!1001 &3926531873766881997
 PrefabInstance:
   m_ObjectHideFlags: 0

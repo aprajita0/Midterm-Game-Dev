@@ -16,7 +16,7 @@ public class SpawnerScript : MonoBehaviour
     public GameObject SpawnedObject;
     public GameObject RareCoinPrefab;
     [Range(0f, 1f)]
-    public float rareChance = 0.2f;
+    public float rareChance = 0.4f;
 
     //This sets how far from the spawner the spawned object can spawn
     //The object spawns in a random location within this x and y distance of the spawner
