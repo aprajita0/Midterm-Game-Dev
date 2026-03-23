@@ -65,7 +65,7 @@ public class PlayerScript : MonoBehaviour
         // Move each body part
         for (int i = 0; i < bodyParts.Count; i++)
         {
-            int index = (i + 1) * 15;
+            int index = (i + 1) * 10;
             if (index >= positions.Count)
                 {
                     index = positions.Count - 1;
